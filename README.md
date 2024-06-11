@@ -40,5 +40,5 @@
   # NPM
   brew install npm
   ```
-5. Microsoft 365 and Teams (optional)
+5. Teams (optional)
 
